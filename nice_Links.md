@@ -1,13 +1,13 @@
 ## RegEx
 
-http://regexr.com/
-https://regexper.com/
+http://regexr.com/  
+https://regexper.com/  
 https://regex101.com/
 
 
 # Browser security/privacy
 
-http://ip-check.info/
+http://ip-check.info/  
 https://www.browserleaks.com/
 
 # Firefox Privacy Addons
