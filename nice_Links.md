@@ -27,3 +27,4 @@ http://www.spf-record.de/
 # misc
 
 http://emoji.codes/
+http://ohmyz.sh/
