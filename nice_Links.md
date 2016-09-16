@@ -12,8 +12,8 @@ https://www.browserleaks.com/
 
 # Firefox Privacy Addons
 
-https://addons.mozilla.org/en-US/firefox/addon/canvasblocker/
-https://addons.mozilla.org/de/firefox/addon/google-no-tracking-url/
+https://addons.mozilla.org/en-US/firefox/addon/canvasblocker/  
+https://addons.mozilla.org/de/firefox/addon/google-no-tracking-url/  
 
 # communication
 
