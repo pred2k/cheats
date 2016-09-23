@@ -1,11 +1,13 @@
 
 ## Shortcuts
+`⌘` = cmd
 
-key combination    | description
--------------------|------------
-cmd + d            | split vertically
-cmd + shift + d    | split horizontally
-alt + cmd + Arrows | move though panes
-alt + cmd + i      | Broadcast input to all Panes in the current Tab
-cmd + Alt + =      | toggle maximize window
-cmd + Enter        | toggle full screen 
+key combination     | description
+--------------------|------------
+`⌘` + d             | split vertically
+`⌘` + shift + d     | split horizontally
+alt + `⌘` + Arrows  | move though panes
+alt + `⌘` + i       | Broadcast input to all Panes in the current Tab
+`⌘` + alt + =       | toggle maximize window
+`⌘` + shift + Enter | toggle maximize pane
+`⌘` + Enter         | toggle full screen
