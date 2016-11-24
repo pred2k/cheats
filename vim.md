@@ -9,7 +9,6 @@ diw             | delete in word
 
 ***
 
-
 ## Mehrere Zeilen auskommentieren
 
 1. `CTRL` + `v`

@@ -16,7 +16,7 @@
 
     git checkout [brachname]
 
-#####  Log mit Dateiänderungen anzeigen:
+##### Log mit Dateiänderungen anzeigen:
     git log -p
     git log --oneline
     git log --stat
