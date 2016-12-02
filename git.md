@@ -14,6 +14,8 @@
     # Start new Repo on my server:
     git init --bare foldername.git
 
+    git clone <url> --branch <branch> --single-branch [<folder>]
+
     git checkout [brachname]
 
 ##### Log mit Dateiänderungen anzeigen:
@@ -38,9 +40,15 @@
 ##### Datei ‚unstagen'
     git reset <filePath>
 
+##### diff von gestagten files anzeigen.
+    git diff --staged [<file>]
+
 ##### direktes commit ohne staging
     git commit --all
     git commit file1.txt file2.txt
+
+##### letzten commit wieder rückgängig machen aber die Datei-Änderungen behalten
+    git reset --soft HEAD~1
 
 ##### Alle Änderungen am Workspace in Zwischenspeicher übernehmen
     git stash --include-untracked
