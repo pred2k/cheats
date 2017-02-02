@@ -6,6 +6,8 @@ gUiw            | Change current word to uppercase.   http://vim.wikia.com/wiki/
 3Vy             | 3 Zeilen markieren und kopieren
 diw             | delete in word
 
+:e    reload file
+:e!   reload file and drop local changes
 
 ***
 
