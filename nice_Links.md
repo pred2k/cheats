@@ -5,8 +5,10 @@ https://regexper.com/
 https://regex101.com/
 
 
-# Browser security/privacy
+# Browser security/privacy checks
 
+https://www.ssllabs.com/ssltest/viewMyClient.html
+https://www.howsmyssl.com/
 http://ip-check.info/  
 https://www.browserleaks.com/
 
@@ -33,6 +35,10 @@ https://addons.mozilla.org/de/firefox/addon/google-no-tracking-url/
 
 https://appear.in/
 
+
+# Server Tests
+
+https://testssl.sh/
 
 # network tools
 
